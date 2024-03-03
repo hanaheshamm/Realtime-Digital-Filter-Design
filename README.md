@@ -30,9 +30,6 @@ The Realtime Digital Filter Design application is a sophisticated tool aimed at 
 - **Real-Time Filtering Simulation:** Offers a practical perspective by demonstrating the filter's performance on actual signals, crucial for applications requiring dynamic signal processing.
 - **Phase Correction with All-Pass Filters:** Addresses the common challenge of phase distortion in filter design, enabling users to achieve a more precise control over the filter's phase response without affecting its magnitude response.
 
-## Screenshots
-
-Below are screenshots from the application, showcasing its user interface and functionality:
 
 
 ## Examples and Inspiration
@@ -49,4 +46,16 @@ This project draws inspiration from existing digital filter design tools such as
 ## Conclusion
 
 The Realtime Digital Filter Design application represents a significant advancement in digital filter design software, offering a comprehensive suite of features that empower users to create, visualize, and test digital filters in a dynamic and interactive environment.
+
+## Installation
+
+```bash
+# Clone the project repository
+git clone [repository-link]
+# Change directory to the project folder
+cd RealtimeDigitalFilterDesign
+# Install the required dependencies
+pip install -r requirements.txt
+# Execute the application
+python main.py
 
